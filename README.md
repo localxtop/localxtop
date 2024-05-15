@@ -1,16 +1,19 @@
-### Hi there 👋
+# Information
 
-<!--
-**localxtop/localxtop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2><strong>About</strong></h2>
 
-Here are some ideas to get you started:
+**Roblox Developer & YouTuber [LocalX](https://youtube.com/@localxtop).**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently learning Rust and Reverse Engineering**
+
+## GitHub Stats
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=LocalX.localxtop) 
+
+![Stats](https://github-readme-stats.vercel.app/api/?username=localxtop&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true&custom_title=LocalX's%20Statistics) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=localxtop&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10&hide=css&custom_title=LocalX's%20Most%20Used%20Languages)
+
+## Connect with me
+
+[<img align="left" alt="LocalX | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/@localxtop)
+
+[<img align="left" alt="LocalX | Official Discord Community" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@11.14.0/icons/discord.svg" />](https://discord.gg/localx)
